@@ -24,6 +24,6 @@
 
 **说明：** 
 
--   例一：源站是域名源站为`www.a.com`回源host设置为`www.b.com`， 那么实际回源是请到m `www.a.com`解析到的IP上对应的具体的站点：`www.b.com`。
+-   例一：源站是域名源站为`www.a.com`回源host设置为`www.b.com`， 那么实际回源是请到 `www.a.com`解析到的IP上对应的具体的站点：`www.b.com`。
 -   例二：源站是IP源站为`1.1.1.1` 回源host设置为`www.b.com`那么实际回源的是`1.1.1.1`上对应的具体站点：`www.b.com`
 
